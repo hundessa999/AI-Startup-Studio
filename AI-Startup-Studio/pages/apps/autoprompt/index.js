@@ -1,1 +1,0 @@
-export default function P(){return <div className='min-h-screen p-10'><a href='/apps/autoprompt/dashboard' className='btn'>Open AutoPrompt AI dashboard</a></div>}

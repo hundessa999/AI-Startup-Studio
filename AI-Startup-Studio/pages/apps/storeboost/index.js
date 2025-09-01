@@ -1,1 +1,0 @@
-export default function P(){return <div className='min-h-screen p-10'><a href='/apps/storeboost/dashboard' className='btn'>Open StoreBoost AI dashboard</a></div>}
